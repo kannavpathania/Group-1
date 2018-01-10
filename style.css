@@ -1,0 +1,311 @@
+.body
+{
+    margin: 0;
+    padding: 0;
+    background-color: #303F9F;
+    /*background-image: url(https://wallpapercave.com/wp/tqyeBQZ.jpg);*/
+    /*background-color: https://wallpapercave.com/wp/tqyeBQZ.jpg;*/
+    /*background-image: url(http://mwdezign.com/wp-content/uploads/2015/11/browser1.png);
+    background-repeat: no-repeat;
+    margin-left: 50px;
+    margin-top: 50px;*/
+}
+#a1
+{
+    font-size: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.about
+{
+    
+    /*background-color: cornsilk;*/
+    background-image: url(https://wallpapercave.com/wp/p38Ujl2.jpg);
+    background-repeat: no-repeat;
+    color: black;
+    /*padding-bottom: 100%;*/
+    padding-left: 35px;
+}
+
+.au
+{
+    font-size: 70px;
+    color: white;
+    text-align: center;
+}
+.b
+{
+    font-weight: bold;
+    font-size: 20px;
+}
+.b1
+{
+    font-family: cursive;
+    font-size: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.browser
+{
+        font-size: 30px;
+    /*font-weight: bold;*/
+    font-family:cursive;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.bsize
+{
+    color: white;
+   text-align: center;
+    font-size: 70px;
+}
+.button
+{
+    margin-left: 10px;
+}
+
+
+.ch
+{
+    margin-left: 550px;
+}
+.chri
+{
+    background-color: cornsilk;
+    padding-left: 30PX;
+    padding-bottom: 30px;
+    padding-right: 30px;
+}
+.ci
+{
+    font-size: 70px;
+    text-align: center;
+}
+.coi
+{
+    
+}
+
+.dci
+{
+    /*background-color: cornsilk;*/
+    background-image: url(https://thumbs.dreamstime.com/b/wood-planks-texture-background-wallpaper-detail-42779710.jpg);
+    background-repeat: no-repeat;
+    font-size: 25px;
+    background-size: 100%;
+    color: black;
+    padding-bottom: 100%;
+    padding-left: 35px;
+    background-repeat: repeat-y
+    
+}
+.ed
+{
+    margin-left: 80px;
+}
+.edi
+{
+    background-color: cornsilk;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+}
+.h1
+{
+    color: black;
+    text-align: center;
+    font-size: 70px;
+}
+.hborder
+{
+    /*background-color: black;*/
+    background-color: black;
+    
+    color: white;
+    width: 100%;
+    height: 40px;
+    margin-top: 0px;
+}
+.home
+{
+    font-size: 25px;
+    color: white;
+    padding: 30px;
+    line-height: 35px;
+}
+.img
+{
+    background-repeat: no-repeat;
+    margin-left: 300px;
+    margin-top: 50px;
+    background-attachment: fixed;
+}
+
+.mo
+{
+    margin-left: 130px;
+}
+.mozi
+{
+    background-color: cornsilk;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+}
+.o
+{
+    margin-left: 650px;
+}
+.opa
+{
+    /*opacity: 0.7;*/
+    background-color: black;
+    position: fixed;
+    width: 100%;
+}
+
+.opi
+{
+    background-color: cornsilk;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+.p1
+{
+    font-size: 30px;
+    /*font-weight: bold;*/
+    font-family:cursive;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.p2
+{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+#p21
+{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+@media only screen and (min-width:350px) and (max-width:480px), (min-resolution:300px),(orientation:landscape)
+{
+.pch
+{
+    margin-left: 500px;
+}
+    }
+.ped
+{
+    margin-left: 80px;
+}
+.pic
+{
+    background-attachment:fixed;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.pmo
+{
+    margin-left: 80px;
+    max-width: 4000px;
+    min-width: 100px;
+}
+.po
+{
+    margin-left: 520px;
+}
+.psa
+{
+    margin-left: 500px;
+}
+
+.s1
+{
+    /*background-color:cornsilk;*/
+    background-image: url(http://www.powerpointhintergrund.com/download/white-texture-background-wallpaper-hd-10577);
+    /*background-image: url(https://wallpapercave.com/wp/p38Ujl2.jpg);*/
+    background-repeat: no-repeat;
+    background-repeat: repeat-y;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+
+.sa
+{
+    margin-left: 330px;
+}
+.safi
+{
+    background-color: cornsilk;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.sf
+{
+    padding-left: 30px;
+    font-size: 18px;
+    background-color: cornsilk;
+    padding-bottom: 100px;
+    
+    margin-top: 100px;
+    font-weight: bold;
+}
+
+.su
+{
+    font-size: 70px;
+    text-align: center;
+}
+.suggestion
+{
+    font-size: 25px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+.video
+{
+    align-content: center;
+}
+
+
+
+/*.image
+{
+    background-image: url(http://mwdezign.com/wp-content/uploads/2015/11/browser1.png);
+}*/
+
+.z
+{
+    position: fixed;
+    background-color: black;
+    width: 100%;
+}
+.table
+{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 500px;
+    padding: 8px;
+    
+}
+.td, th
+{
+    border: 1px solid #212121 ;
+    text-align: left;
+    padding: 8px;
+}
